@@ -1,0 +1,10 @@
+ATIVIDADE 12 - Hooks personalizados do slide Hooks no React Native
+
+Exemplo 1: useToggle (notificações e modo avião)
+Exemplo 2: useFetch (posts, usuários e erro 404 usando fakeApi.js)
+Exemplo 3: useForm (login com validação)
+
+Cada exemplo é um projeto Expo independente.
+Para executar um exemplo: entre na pasta dele, execute npm install e npx expo start.
+
+Para enviar todos ao GitHub, execute git init/add/commit/push na pasta ATIVIDADE12-HOOKS-PERSONALIZADOS.
